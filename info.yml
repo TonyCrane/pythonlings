@@ -1,0 +1,10 @@
+exercise1:
+  name: variables1
+  path: exercises/variables/variables1.py
+  mode: run
+  hint: No hints this time 
+test2:
+  name: test
+  path: exercises/variables/test.py
+  mode: test
+  hint: No hints this time
